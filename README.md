@@ -1,0 +1,1 @@
+# Minimum_difference_in_array
